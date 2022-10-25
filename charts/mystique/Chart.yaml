@@ -3,7 +3,7 @@ appVersion: "1.0"
 description: A helm chart for masquerading as misc helm resources.
 name: mystique
 version: 0.1.0
-home: https://github.com/vggalkin/charts
+home: https://vggalkin.github.io/charts/
 maintainers:
   - email: v.g.galkin@gmail.com
     name: vggalkin
