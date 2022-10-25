@@ -4,8 +4,8 @@ description: A helm chart for masquerading as misc helm resources.
 name: mystique
 version: 0.1.0
 source:
-  - https://github.com/paulczar/charts
+  - https://github.com/vggalkin/charts
 home: https://tech.paulcz.net/charts
 maintainers:
-  - email: username.taken@gmail.com
-    name: paulczar
+  - email: v.g.galkin@gmail.com
+    name: vggalkin
